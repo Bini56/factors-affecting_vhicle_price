@@ -8,6 +8,7 @@ The main goal of this project is to identify and analyze the factors that have a
 
 __Data__
 The analysis is based on a comprehensive dataset of car listings, which includes information on various attributes such as make, model, year, mileage, fuel type, engine size, and other relevant features. The dataset is sourced from reputable sources and has been preprocessed to ensure its quality and reliability.
+![ALT text](/imgs/output.png)]
 
 __Methodology__
 We will employ various statistical and machine learning techniques to analyze the data and identify the most influential factors affecting car prices. This will involve data preprocessing, feature selection, model training, and evaluation to gain a deeper understanding of the relationships between different variables and car pricing.
