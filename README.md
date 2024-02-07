@@ -1,5 +1,7 @@
 __Factors Affecting Car Prices__
 This project aims to analyze the various factors that affect car prices. By examining different features and characteristics of cars, we seek to understand the relationships between these factors and the pricing of cars in the market.
+![Alt text](/imgs//q2.JPG)
+
 
 __Overview__
 The main goal of this project is to identify and analyze the factors that have a significant impact on car prices. By conducting exploratory data analysis and using statistical modeling techniques, we aim to gain insights into the key determinants of car pricing.
