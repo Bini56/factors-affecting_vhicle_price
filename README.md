@@ -20,9 +20,8 @@ __Usage__
 To replicate our analysis or use our findings, you can access the code and data provided in this repository. Detailed instructions on how to run the analysis and reproduce the results will be included in the project documentation.
 
 __Contributors__
-Your Name<br />
-Contributor 2<br />
-Contributor 3<br />
+Binyam Atsbeha<br />
+
 License<br />
 <!-- This project is licensed under the MIT License - see the LICENSE.md file for details. -->
 
